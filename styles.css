@@ -1,0 +1,59 @@
+.logos{
+    background-color:#f2f6ff;
+    opacity: 0.9;
+    
+.social-icons{
+    width: 58px;
+    height: 55px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 21px;
+}
+}
+#input-box{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid;
+    width: 300px;
+    opacity: 0.1;
+    outline: none;
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 550px;
+    width: 450px;
+    border: 1px solid #ccc;
+}
+#submit-btn{
+    padding: 12px 22px;
+    background-color: #0056ff;
+    color: white;
+    position: relative;
+    left: 145px;
+    border: none;
+    font-size: 14px;
+}
+#input-container{
+    line-height: 0.09;
+    padding-top: 18px;
+    padding-left: 56px;
+    padding-bottom: 12px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    
+}
+p{
+    opacity: 0.9;
+}
+body{
+    background-color: #f2f6ff;
+    margin: 0;
+    padding: 36px;
+}
